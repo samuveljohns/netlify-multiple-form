@@ -1,0 +1,10 @@
+#form2,
+#form3 {
+  display: none;
+}
+
+a {
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
